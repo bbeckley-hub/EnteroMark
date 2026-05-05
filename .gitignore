@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Conda
+*.tar.bz2
+*.conda
+.conda-env
+conda-bld/
+
+# Data files (don't commit large data)
+*.fna
+*.fasta
+*.fa
+*.faa
+*.gbk
+*.gbff
+*.gff
+*.gff3
+*.tsv
+*.csv
+*.zip
+*.gz
+*.tar
+
+# Database files (too large for git)
+enteromark/modules/amr_module/data/
+enteromark/modules/abricate_module/*.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test output
+test_output/
+results/
+B/
