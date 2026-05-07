@@ -116,7 +116,6 @@ EnteroMark delivers:
 - **✅ 100% local execution** with data privacy
 - **✅ Intelligent resource management** using Python's psutil library
 - **✅ Interactive HTML reports** with epidemiological context
-- **✅ Automated VRE classification** with confidence scoring
 - **✅ Comprehensive gene tracking** for last-resort antibiotics
 
 **Perfect for**: Clinical labs, outbreak investigations, research studies, and public health surveillance of vancomycin-resistant enterococci.
