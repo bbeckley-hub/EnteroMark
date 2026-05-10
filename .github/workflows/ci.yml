@@ -27,12 +27,11 @@ jobs:
         auto-update-conda: true
         python-version: ${{ matrix.python-version }}
     
-    - name: Install enteromark from bbeckley-hub channel
+    - name: Install enteromark from bioconda channel
       shell: bash -l {0}
       run: |
         conda config --add channels conda-forge
         conda config --add channels bioconda
-        conda config --add channels bbeckley-hub 
         conda create -n enteromark -c conda-forge -c bioconda enteromark python=${{ matrix.python-version }} -y
         conda activate enteromark
     
