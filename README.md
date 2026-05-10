@@ -15,7 +15,7 @@
 ![Latest Release Date](https://anaconda.org/bbeckley-hub/enteromark/badges/latest_release_date.svg)
 ![Platforms](https://anaconda.org/bbeckley-hub/enteromark/badges/platforms.svg)
 ![License](https://anaconda.org/bbeckley-hub/enteromark/badges/license.svg)
-![Downloads](https://anaconda.org/bbeckley-hub/enteromark/badges/downloads.svg)
+
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/bbeckleyhub/enteromark)](https://hub.docker.com/r/bbeckleyhub/enteromark)
 [![Docker Image Size](https://img.shields.io/docker/image-size/bbeckleyhub/enteromark/latest)](https://hub.docker.com/r/bbeckleyhub/enteromark)
