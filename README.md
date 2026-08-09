@@ -623,17 +623,7 @@ enteromark --update-amr-db
 
 If you use EnteroMark in your research, please cite:
 
-> Beckley, B. (2026). EnteroMark: a species‑optimized computational pipeline for rapid and accessible *Enterococcus faecium* genotyping and surveillance. *Journal of Clinical Microbiology* (In Review).
-
-```bibtex
-@article{beckley2026enteromark,
-  title={EnteroMark: a species‑optimized computational pipeline for rapid and accessible Enterococcus faecium genotyping and surveillance},
-  author={Beckley, Brown},
-  journal={Journal of Clinical Microbiology},
-  year={2026},
-  note={In Review}
-}
-```
+> Beckley, B. (2026). EnteroMark: a species‑optimized computational pipeline for rapid and accessible *Enterococcus faecium* genotyping and surveillance..
 
 ### **Software Citation**
 ```bibtex
